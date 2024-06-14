@@ -220,6 +220,7 @@ newtv金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 周星驰电影1,https://live.metshop.top/huya/11342412
 周星驰电影2,https://live.metshop.top/douyu/122402
 喜剧电影1,https://live.metshop.top/douyu/747764
+豆瓣高分,http://live.iill.top/douyu.php?id=8770422
 电影5,https://live.metshop.top/douyu/3637778
 盗墓电影,https://live.metshop.top/douyu/11279861
 成龙电影,https://live.metshop.top/huya/11342386
